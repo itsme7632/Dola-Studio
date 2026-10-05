@@ -1,0 +1,95 @@
+--- TEST RUN SDolaStudio.exe ---
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== PROCESS EXITING (atexit) ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== PROCESS EXITING (atexit) ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== PROCESS EXITING (atexit) ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== PROCESS EXITING (atexit) ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== PROCESS EXITING (atexit) ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex and non-blocking acquire
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===
+=== sitecustomize.py LOADED ===
+python=3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+[PRE-PATCH] desktop_instance patched with unique mutex
+[PRE-PATCH] app_paths updated to SDola Studio
+[PRE-PATCH] studio_ui patched with SDola branding and yellow colors
+[PRE-PATCH] CustomTkinter constructors hooked successfully for Yellow Theme
+[PRE-PATCH] dola_gui patched successfully into sys.modules
+=== sitecustomize.py setup completed successfully ===

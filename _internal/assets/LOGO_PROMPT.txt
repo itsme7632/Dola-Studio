@@ -1,0 +1,13 @@
+Generated with the built-in image_gen tool (transparent_background=true).
+Exactly one generation call; no variants or editing retries.
+PNG copied from the built-in output. ICO and favicon files are format/size conversions preserving the artwork and alpha.
+
+Use case: logo-brand
+Asset type: final square Windows application icon and web dashboard favicon for ZDola Studio.
+Primary request: Create exactly one polished, simple flat vector-like app icon.
+Subject: A centered bold distinctive capital letter Z formed from video ribbon and play geometry. The Z must have a strong unmistakable silhouette, immediately legible at tiny icon sizes.
+Composition/framing: One charcoal rounded-square tile, centered on a square canvas. Generous internal padding around the Z. Transparent background around the rounded-square tile.
+Style/medium: Crisp, professional, minimal, flat vector-like logo artwork with clean edges and simple geometry.
+Color palette: Charcoal #262624 for the tile, warm terracotta/coral #D58A6C or #C87858 for the main Z, and restrained cream #F5F3EC details.
+Text (verbatim): "Z" only, expressed as the icon symbol.
+Constraints: Exactly one final asset. No variants, no wordmark, no UI mockup, no extra lettering beyond Z, no watermarks. No 3D, no shadows, no gradients, no texture, no decorative border. Preserve genuine transparency outside the rounded-square icon.

@@ -1,0 +1,246 @@
+ 
+=== license_client.py LOADED (v5) ===
+=== license_router.py LOADED (v3) ===
+=== activation_ui.py LOADED (v13 BLOCK-ALL) ===
+RoutedLicenseStore.__init__
+startup_splash(1 args)
+startup_splash: root=CTk
+[PATCHED] root.withdraw/iconify blocked
+startup_splash: returning (root, splash)
+RoutedLicenseStore.refresh()
+splash.stop()
+RoutedLicenseStore.status() -> dict
+[BLOCKED] root.destroy() call #1
+[BLOCKED] root alive, children cleared, visible
+RoutedLicenseStore.attach_usage
+RoutedLicenseStore.status() -> dict
+[TRACE] mainloop() ENTERED — forcing deiconify first
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.refresh()
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.is_online -> True
+RoutedLicenseStore.refresh()
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+RoutedLicenseStore.status() -> dict
+=== license_client.py LOADED (v5) ===
+=== license_router.py LOADED (v3) ===
+=== activation_ui.py LOADED (v13 BLOCK-ALL) ===
+RoutedLicenseStore.__init__
+startup_splash(1 args)
+startup_splash: root=CTk
+[PATCHED] root.withdraw/iconify blocked
+startup_splash: returning (root, splash)
+RoutedLicenseStore.refresh()
+splash.stop()
+RoutedLicenseStore.status() -> dict
+[BLOCKED] root.destroy() call #1
+[BLOCKED] root alive, children cleared, visible
+RoutedLicenseStore.attach_usage
+[ATEXIT] Process exiting!
+=== license_client.py LOADED (v5) ===
+=== license_router.py LOADED (v3) ===
+=== activation_ui.py LOADED (v13 BLOCK-ALL) ===
+RoutedLicenseStore.__init__
+startup_splash(1 args)
+startup_splash: root=CTk
+[PATCHED] root.withdraw/iconify blocked
+startup_splash: returning (root, splash)
+RoutedLicenseStore.refresh()
+splash.stop()
+RoutedLicenseStore.status() -> dict
+[BLOCKED] root.destroy() call #1
+[BLOCKED] root alive, children cleared, visible
+RoutedLicenseStore.attach_usage
+[ATEXIT] Process exiting!
+=== license_client.py LOADED (v5) ===
+=== license_router.py LOADED (v3) ===
+=== activation_ui.py LOADED (v13 BLOCK-ALL) ===
+RoutedLicenseStore.__init__
+startup_splash(1 args)
+startup_splash: root=CTk
+[PATCHED] root.withdraw/iconify blocked
+startup_splash: returning (root, splash)
+RoutedLicenseStore.refresh()
+splash.stop()
+RoutedLicenseStore.status() -> dict
+[BLOCKED] root.destroy() call #1
+[BLOCKED] root alive, children cleared, visible
+RoutedLicenseStore.attach_usage
+[ATEXIT] Process exiting!

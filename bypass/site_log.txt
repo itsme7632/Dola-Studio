@@ -1,0 +1,8 @@
+
+=== sitecustomize.py v3 LOADED ===
+python=3.10.4 (tags/v3.10.4:9d38120, Mar 23 2022, 23:13:41) [MSC v.1929 64 bit (AMD64)]
+path=['C:\\Users\\Jeetreneur\\AppData\\Local\\Programs\\DolaStudio\\bypass', 'C:\\Program Files\\Python310\\python310.zip', 'C:\\Program Files\\Python310\\DLLs', 'C:\\Program Files\\Python310\\lib', 'C:\\Program Files\\Python310', 'C:\\Users\\Jeetreneur\\AppData\\Roaming\\Python\\Python310\\site-packages', 'C:\\Users\\Jeetreneur\\AppData\\Roaming\\Python\\Python310\\site-packages\\win32', 'C:\\Users\\Jeetreneur\\AppData\\Roaming\\Python\\Python310\\site-packages\\win32\\lib', 'C:\\Users\\Jeetreneur\\AppData\\Roaming\\Python\\Python310\\site-packages\\pythonwin', 'C:\\Program Files\\Python310\\lib\\site-packages']
+[INSTALLED] Import hook for tkinter/customtkinter
+All license modules injected OK
+Injected: ['license_client', 'worker_license', 'firebase_license', 'online_license', 'integrity_check', 'signed_payload', 'license_router']
+=== sitecustomize.py v3 DONE ===
